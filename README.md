@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks 👋
 • This is Priyam
 
 • I am a programmer and also a youtuber
@@ -6,6 +6,8 @@
 • I know Python, Css And HTML Languages
 
 • My youtube channel name is Coding Is Fun!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
 **CodingIsFun22/CodingIsFun22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
