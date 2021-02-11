@@ -1,5 +1,7 @@
 ### Hi there 👋
-This Is Priyam Das
+### This is Priyam
+### I am a programmer and also a youtuber
+### My youtube channel name is Coding Is Fun!
 
 <!--
 **CodingIsFun22/CodingIsFun22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
