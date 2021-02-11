@@ -3,6 +3,8 @@
 
 • I am a programmer and also a youtuber
 
+• I know Python, Css And HTML Languages
+
 • My youtube channel name is Coding Is Fun!
 
 <!--
